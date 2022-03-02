@@ -1,3 +1,3 @@
-FROM PXZUpLUK/divarvian-userbot:slim-buster
+FROM pxzupluk/divarvian-userbot:slim-buster
 
 CMD [ "bash", "start" ]
