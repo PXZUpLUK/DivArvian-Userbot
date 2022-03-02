@@ -69,7 +69,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## Updates & Support
 
-Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang DivArvian-Userbot.
+Follow Channel [@LieShooter_TG](https://t.me/LieShooter_TG) untuk info Update bot dan Gabung Group [@LieShooter_GC](https://t.me/LieShooter_GC) untuk untuk diskusi, pelaporan bug, dan bantuan tentang DivArvian-Userbot.
 
 #### Special Thanks To [Everyone](https://github.com/PXZUpLUK/DivArvian-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
