@@ -30,7 +30,7 @@ jobs:
           PASSPHRASE: ${{ secrets.PASSPHRASE }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Man-Userbot: auto fixes'
+          commit_message: 'DivArvian-Userbot: auto fixes'
           commit_options: '--no-verify --signoff'
           repository: .
           commit_user_name: PXZUpLUK
